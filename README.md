@@ -12,7 +12,6 @@
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Database Setup](#-database-setup)
 - [API Endpoints](#-api-endpoints)
