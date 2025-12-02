@@ -88,26 +88,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-*Landing page with glassmorphism design and feature highlights*
-![Landing page]("C:\Users\gawal\OneDrive\Pictures\Screenshots\Screenshot 2025-12-02 195537.png")
-
-
-### Symptom Search
-*Multi-language symptom search with medicine recommendations*
-
-### Doctor Dashboard
-*Doctor's appointment management interface*
-
-### Pharmacist Dashboard
-*Inventory management system for pharmacists*
-
-### Shopping Cart
-*Medicine ordering and checkout process*
-
----
 
 ## 🚀 Installation
 
